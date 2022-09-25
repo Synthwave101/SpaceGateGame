@@ -1,4 +1,4 @@
-# SpaceGateGame
-SpaceGate text mini game
+# SpaceGate Game
+text mini game
 
-This is a game I made learning python
+This is a text mini game I made learning python
